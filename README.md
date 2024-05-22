@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Proceed15&show_icons=true&theme=transparent)
 
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Proceed15&theme=dark&background=000000)](https://git.io/streak-stats)
 
 ### :hammer_and_wrench: Linguagens e Ferramentas que tive Experiência :
 <div>
