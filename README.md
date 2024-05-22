@@ -15,6 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+I am a Software Development Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Brazil.
+- :telescope: I’m studing System Development for a variety of platforms at Fatec in Sorocaba, São Paulo, Brazil.
+
+- :seedling: Exploring Technical Content, Articles and Development.
+
+- :zap: In my free time, I Solve Programming Logic Puzzle's and read Tech Articles.
+
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)]([https://br.linkedin.com/in/jos%C3%A9-roberto-lisboa-da-silva-filho-ab4b492a6])
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Proceed15&show_icons=true&theme=transparent)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Proceed15&theme=blue-green&mode=weekly)](https://git.io/streak-stats)
