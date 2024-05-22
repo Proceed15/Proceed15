@@ -22,7 +22,7 @@ I am a Software Development Student <img src="https://media.giphy.com/media/WUlp
 
 - :zap: In my free time, I Solve Programming Logic Puzzle's and read Tech Articles.
 
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)]([https://br.linkedin.com/in/jos%C3%A9-roberto-lisboa-da-silva-filho-ab4b492a6])
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-José-blue?style=flat&logo=Linkedin&logoColor=white)](https://br.linkedin.com/in/jos%C3%A9-roberto-lisboa-da-silva-filho-ab4b492a6)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Proceed15&show_icons=true&theme=transparent)
 
