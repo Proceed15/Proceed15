@@ -26,9 +26,9 @@ I am a Software Development Student <img src="https://media.giphy.com/media/WUlp
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Proceed15&show_icons=true&theme=transparent)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Proceed15&theme=blue-green&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Proceed15&theme=blue-green&mode=weekly)]
 
-<a[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Proceed15&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)height="192px"/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Proceed15&layout=compact&theme=default)]
 
 ### :hammer_and_wrench: Languages and Tools I've had Experience :
 <div>
