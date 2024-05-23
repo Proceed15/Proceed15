@@ -30,7 +30,7 @@ I am a Software Development Student <img src="https://media.giphy.com/media/WUlp
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Proceed15&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
-### :hammer_and_wrench: Linguagens e Ferramentas que tive Experiência :
+### :hammer_and_wrench: Languages and Tools I've had Experience :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" **alt="C" width="40" height="40"/>&nbsp;
