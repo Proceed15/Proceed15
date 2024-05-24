@@ -14,15 +14,27 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Pt-Br:
+Eu sou um estudante de Desenvolvimento e Análise de Sistemas <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> no Brasil.
 
-I am a Software Development Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Brazil.
+- :telescope: Eu estou estudando Desenvolvimento de Sistemas para uma variedade de plataformas na Fatec de Sorocaba em São Paulo, Brasil.
+
+- :seedling: Explorando Conteúdo Técnico, Artigos e Desenvolvimento.
+
+- :zap: No meu Tempo Livre eu Resolvo Enigmas de Lógica de Programação e Leio Artigos Técnicos.
+
+- :mailbox: Minha conta no Linkedin: [![Linkedin Badge](https://img.shields.io/badge/-José-blue?style=flat&logo=Linkedin&logoColor=white)](https://br.linkedin.com/in/jos%C3%A9-roberto-lisboa-da-silva-filho-ab4b492a6)
+
+# En-Us:
+I am a Software Development and Analyses Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> at Brazil.
+
 - :telescope: I’m studying System Development for a variety of platforms at Fatec Sorocaba in São Paulo, Brazil.
 
 - :seedling: Exploring Technical Content, Articles and Development.
 
 - :zap: In my free time, I Solve Programming Logic Puzzle's and read Tech Articles.
 
-- :mailbox: My Linkedin Account: [![Linkedin Badge](https://img.shields.io/badge/-José-blue?style=flat&logo=Linkedin&logoColor=white)](https://br.linkedin.com/in/jos%C3%A9-roberto-lisboa-da-silva-filho-ab4b492a6)
+- :mailbox: My Linkedin Account: [![Linkedin Badge](https://img.shields.io/badge/-Jose-blue?style=flat&logo=Linkedin&logoColor=white)](https://br.linkedin.com/in/jos%C3%A9-roberto-lisboa-da-silva-filho-ab4b492a6)
 
 ![Proceed15's GitHub stats](https://github-readme-stats.vercel.app/api?username=Proceed15&show_icons=true&theme=transparent)
 
@@ -30,7 +42,7 @@ I am a Software Development Student <img src="https://media.giphy.com/media/WUlp
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Proceed15&layout=compact&theme=default)
 
-### :hammer_and_wrench: Languages and Tools I've had Experience :
+### :hammer_and_wrench: Languages and Tools I've had Experience | Linguagens e Ferramentas que tive Experiência:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" **alt="C" width="40" height="40"/>&nbsp;
