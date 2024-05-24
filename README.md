@@ -40,14 +40,10 @@ I am a Software Development and Analyses Student at Brazil.<img src="https://med
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
 <img height=259 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=proceed15&layout=compact&langs_count=12&hide_border=true&role=owner,collaborator&theme=default#gh-light-mode-only" alt="Jose's Language stats" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-<img height=259 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/apiusername=proceed15&show_icons=true&line_height=28&hide_border=true&card_width=347&include_all_commits=true&role=owner,collaborator&show=reviews,discussions_answered&rank_icon=percentile&exclude_repo=github-readme-stats&theme=default#gh-light-mode-only" alt="Jose's Github stats" />
-</a>
 </div>
 
-<!--
 ![Proceed15's GitHub stats](https://github-readme-stats.vercel.app/api?username=Proceed15&show_icons=true&theme=transparent)
-
+<!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Proceed15&layout=compact&theme=default)
 -->
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Proceed15&theme=blue-green&mode=weekly)
