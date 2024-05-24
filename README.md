@@ -74,11 +74,15 @@ I am a Software Development and Analyses Student at Brazil.<img src="https://med
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" **alt="PHP Web" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/composer/composer-original.svg" title="Composer" **alt="Composer PHP" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original-wordmark.svg" title="LaravelPHP" **alt="Laravel PHP" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" **alt="MySQL Web" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostGreeSQL" **alt="PostGreeSQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg" title="Photoshop" **alt="Photoshop" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="SASS" **alt="SASS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" title="Oracle" **alt="Oracle" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VSCode" **alt="VisualStudio Code" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg" title="MS VS" **alt="Visual Studio" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" **alt="Postman" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/puppeteer/puppeteer-original.svg" title="Puppeteer" **alt="Puppeteer" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/powershell/powershell-original.svg" title="MSPowerSheel" **alt="Microsoft PowerShell" width="40" height="40"/>&nbsp;
+</div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/msdos/msdos-original.svg" title="MSDOS" **alt="Microsoft Dos" width="40" height="40"/>&nbsp;
 </div>
