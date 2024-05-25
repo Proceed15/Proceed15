@@ -42,10 +42,11 @@ I am a Software Development and Analyses Student at Brazil.<img src="https://med
 </a>
 </div>
 
-![Proceed15's GitHub stats](https://github-readme-stats.vercel.app/api?username=Proceed15&show_icons=true&theme=transparent)
 <!--
+![Proceed15's GitHub stats](https://github-readme-stats.vercel.app/api?username=Proceed15&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Proceed15&layout=compact&theme=default)
 -->
+
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Proceed15&theme=blue-green&mode=weekly)
 
 ### :hammer_and_wrench: Languages and Tools I've had Experience | Linguagens e Ferramentas que tive Experiência:
