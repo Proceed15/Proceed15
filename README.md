@@ -42,8 +42,7 @@ I am a Software Development and Analyses Student at Brazil.<img src="https://med
 </a>
 </div>
 
-
-[![trophy](https://github-profile-trophy.vercel.app/?proceed15=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=proceed15)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 ![Proceed15's GitHub stats](https://github-readme-stats.vercel.app/api?username=Proceed15&show_icons=true&theme=transparent)
