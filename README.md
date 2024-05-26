@@ -51,6 +51,8 @@ I am a Software Development and Analyses Student at Brazil.<img src="https://med
 
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Proceed15&theme=blue-green&mode=weekly)
 
+![](https://komarev.com/ghpvc/?username=proceed15)
+
 ### :hammer_and_wrench: Languages and Tools I've had Experience | Linguagens e Ferramentas que tive Experiência:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
