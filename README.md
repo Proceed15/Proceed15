@@ -30,7 +30,7 @@ I am a Software Development and Analyses Student at Brazil. <kbd><img src="https
 
 - :telescope: I’m studying System Development for a variety of platforms at Fatec Sorocaba in São Paulo, Brazil.
 
-- :seedling: Exploring Technical Content, Articles and Development.
+- :seedling: Exploring Content, Articles and Development.
 
 - :zap: In my free time, I Solve Programming Logic Puzzle's and read Tech Articles.
 
