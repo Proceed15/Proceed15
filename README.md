@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Pt-Br:
-Eu sou um estudante de Desenvolvimento e Análise de Sistemas no Brasil.<img src="https://images.app.goo.gl/AhxsTcjrUWr4stBc7" width="30">
+Eu sou um estudante de Desenvolvimento e Análise de Sistemas no Brasil.<img src="https://giphy.com/gifs/justviralnet-cat-hilarious-typing-H1dxi6xdh4NGQCZSvz" width="30">
 
 - :telescope: Eu estou estudando Desenvolvimento de Sistemas para uma variedade de plataformas na Fatec de Sorocaba em São Paulo, Brasil.
 
@@ -26,7 +26,7 @@ Eu sou um estudante de Desenvolvimento e Análise de Sistemas no Brasil.<img src
 - :mailbox: Minha conta no Linkedin: [![Linkedin Badge](https://img.shields.io/badge/-José-blue?style=flat&logo=Linkedin&logoColor=white)](https://br.linkedin.com/in/jos%C3%A9-roberto-lisboa-da-silva-filho-ab4b492a6)
 
 # En-Us:
-I am a Software Development and Analyses Student at Brazil.<img src="https://images.app.goo.gl/AhxsTcjrUWr4stBc7" width="30">
+I am a Software Development and Analyses Student at Brazil.<img src="https://giphy.com/gifs/justviralnet-cat-hilarious-typing-H1dxi6xdh4NGQCZSvz" width="30">
 
 - :telescope: I’m studying System Development for a variety of platforms at Fatec Sorocaba in São Paulo, Brazil.
 
