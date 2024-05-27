@@ -19,7 +19,7 @@ Eu sou um estudante de Desenvolvimento e Análise de Sistemas no Brasil. <kbd><i
 
 - :telescope: Eu estou estudando Desenvolvimento de Sistemas para uma variedade de plataformas na Fatec de Sorocaba em São Paulo, Brasil.
 
-- :seedling: Explorando Conteúdo Técnico, Artigos e Desenvolvimento.
+- :seedling: Explorando Conteúdo, Artigos e Desenvolvimento.
 
 - :zap: No meu Tempo Livre eu Resolvo Enigmas de Lógica de Programação e Leio Artigos Técnicos.
 
