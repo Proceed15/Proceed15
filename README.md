@@ -26,7 +26,7 @@ Eu sou um estudante de Desenvolvimento e Análise de Sistemas no Brasil.<img src
 - :mailbox: Minha conta no Linkedin: [![Linkedin Badge](https://img.shields.io/badge/-José-blue?style=flat&logo=Linkedin&logoColor=white)](https://br.linkedin.com/in/jos%C3%A9-roberto-lisboa-da-silva-filho-ab4b492a6)
 
 # En-Us:
-I am a Software Development and Analyses Student at Brazil.<img src="https://i.giphy.com/3oKIPnAiaMCws8nOsE.webp" width="33" lenght="33">
+I am a Software Development and Analyses Student at Brazil.<img src="https://i.giphy.com/3oKIPnAiaMCws8nOsE.webp" width="33">
 
 - :telescope: I’m studying System Development for a variety of platforms at Fatec Sorocaba in São Paulo, Brazil.
 
