@@ -91,3 +91,5 @@ I am a Software Development and Analyses Student at Brazil. <kbd><img src="https
 </div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/msdos/msdos-original.svg" title="MSDOS" **alt="Microsoft Dos" width="40" height="40"/>&nbsp;
 </div>
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FFile%3AMicrosoft_Office_Excel_%25282019%25E2%2580%2593present%2529.svg&psig=AOvVaw0FX0Dra-YZi9uHsa6G-SG-&ust=1718823800086000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCPjH_Ofr5YYDFQAAAAAdAAAAABAE" title="MSDOS" **alt="Microsoft Dos" width="40" height="40"/>&nbsp;
+</div>
