@@ -88,8 +88,6 @@ I am a Software Development and Analyses Student at Brazil. <kbd><img src="https
   <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" **alt="Postman" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/puppeteer/puppeteer-original.svg" title="Puppeteer" **alt="Puppeteer" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/powershell/powershell-original.svg" title="MSPowerSheel" **alt="Microsoft PowerShell" width="40" height="40"/>&nbsp;
-</div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/msdos/msdos-original.svg" title="MSDOS" **alt="Microsoft Dos" width="40" height="40"/>&nbsp;
-</div>
-<img src="https://github.com/sempostma/office365-icons/blob/master/svg/excel.svg" title="Excel" **alt="Microsoft Excel" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/sempostma/office365-icons/blob/master/svg/excel.svg" title="Excel" **alt="Microsoft Excel" width="40" height="40"/>&nbsp;
 </div>
