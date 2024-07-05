@@ -1,5 +1,9 @@
 ## José Roberto Lisboa da Silva Filho
 
+<picture>
+  <img src="/github-metrics.svg" alt="Metrics">
+</picture>
+
 <!--
 **Proceed15/Proceed15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
