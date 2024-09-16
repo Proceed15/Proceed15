@@ -50,8 +50,6 @@ I am a Software Development and Analyses Student at Brazil. <kbd><img src="https
 
 <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=proceed15&show_icons=true&count_private=true&hide_border=true&title_color=36BCF7FF&icon_color=36BCF7FF&text_color=36BCF7FF&bg_color=0d1117" alt="José Lisboa Filho github stats" /> 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=proceed15&point=FEAD17&bg_color=02121C&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 <!--
 [![trophy](https://github-profile-trophy.vercel.app/?username=proceed15)](https://github.com/ryo-ma/github-profile-trophy)
 -->
@@ -62,6 +60,8 @@ I am a Software Development and Analyses Student at Brazil. <kbd><img src="https
 -->
 
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Proceed15&theme=blue-green&mode=weekly)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=proceed15&point=FEAD17&bg_color=02121C&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ![](https://komarev.com/ghpvc/?username=proceed15)
 
