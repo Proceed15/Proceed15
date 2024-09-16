@@ -51,7 +51,9 @@ I am a Software Development and Analyses Student at Brazil. <kbd><img src="https
     <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Proceed15&layout=compact&hide_border=true&title_color=36BCF7FF&text_color=36BCF7FF&bg_color=0d1117" />
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Proceed15&show_icons=true&count_private=true&hide_border=true&title_color=36BCF7FF&icon_color=36BCF7FF&text_color=36BCF7FF&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
 </div>
+<!--
 [![trophy](https://github-profile-trophy.vercel.app/?username=proceed15)](https://github.com/ryo-ma/github-profile-trophy)
+-->
 
 <!--
 ![Proceed15's GitHub stats](https://github-readme-stats.vercel.app/api?username=Proceed15&show_icons=true&theme=transparent)
