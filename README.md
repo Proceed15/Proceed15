@@ -42,14 +42,13 @@ I am a Software Development and Analyses Student at Brazil. <kbd><img src="https
 
 - :mailbox: My Linkedin Account: [![Linkedin Badge](https://img.shields.io/badge/-Jose-blue?style=flat&logo=Linkedin&logoColor=white)](https://br.linkedin.com/in/jos%C3%A9-roberto-lisboa-da-silva-filho-ab4b492a6)
 
-<div align="center"> 
+<div align="left"> 
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
 <img height=300 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=proceed15&layout=compact&langs_count=12&hide_border=true&role=owner,collaborator&theme=default#gh-light-mode-only" alt="Jose's Language stats" />
 </a>
-    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=proceed15&layout=compact&hide_border=true&title_color=36BCF7FF&text_color=36BCF7FF&bg_color=0d1117" />
 </div>
 
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=proceed15&show_icons=true&count_private=true&hide_border=true&title_color=36BCF7FF&icon_color=36BCF7FF&text_color=36BCF7FF&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=proceed15&show_icons=true&count_private=true&hide_border=true&title_color=36BCF7FF&icon_color=36BCF7FF&text_color=36BCF7FF&bg_color=0d1117" alt="José Lisboa Filho github stats" /> 
 
 <!--
 [![trophy](https://github-profile-trophy.vercel.app/?username=proceed15)](https://github.com/ryo-ma/github-profile-trophy)
