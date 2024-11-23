@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!-- https://github.com/algebrot/clone-wars-website/tree/main -->
 # Pt-Br:
 Eu sou um estudante de Desenvolvimento e Análise de Sistemas no Brasil. <kbd><img src="https://i.giphy.com/3oKIPnAiaMCws8nOsE.webp" width="33"></kbd>
 
@@ -74,4 +75,3 @@ I am a Software Development and Analyses Student at Brazil. <kbd><img src="https
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=light)
 
-** https://github.com/algebrot/clone-wars-website/tree/main 
