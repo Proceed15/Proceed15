@@ -66,7 +66,7 @@ I am a Software Development and Analyses Student at Brazil. <kbd><img src="https
 
 ![](https://komarev.com/ghpvc/?username=proceed15)
 
-## :hammer_and_wrench: Languages, Tools, Servers and Frameworks I've had Experience | Linguagens, Ferramentas, Servidores e Frameworks que tive Experiência:
+## :hammer_and_wrench: Languages, Tools, Servers and Frameworks I've had Experience | Linguagens, Ferramentas, Servidores e Frameworks que tive Experiências:
 
 | Linguagens + Languages | Ferramentas/Servidores + Tools/Servers | Frameworks |
 | --- | --- | --- |
