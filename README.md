@@ -22,9 +22,9 @@ Here are some ideas to get you started:
 -->
 <!-- https://github.com/algebrot/clone-wars-website/tree/main -->
 # Pt-Br:
-Eu sou um estudante de Desenvolvimento e Análise de Sistemas no Brasil. <kbd><img src="https://i.giphy.com/3oKIPnAiaMCws8nOsE.webp" width="33"></kbd>
+Eu Sou um Estudante de Desenvolvimento e Análise de Sistemas... <kbd><img src="https://i.giphy.com/3oKIPnAiaMCws8nOsE.webp" width="33"></kbd>
 
-- :telescope: Eu estou estudando Desenvolvimento de Sistemas para uma variedade de plataformas na Fatec de Sorocaba em São Paulo, Brasil.
+- :telescope: Eu estou estudando Desenvolvimento de Sistemas para uma variedade de plataformas na Fatec de Sorocaba no estado de São Paulo, no Brasil.
 
 - :seedling: Explorando Conteúdo, Artigos e Desenvolvimento.
 
@@ -33,13 +33,13 @@ Eu sou um estudante de Desenvolvimento e Análise de Sistemas no Brasil. <kbd><i
 - :mailbox: Minha conta no Linkedin: [![Linkedin Badge](https://img.shields.io/badge/-José-blue?style=flat&logo=Linkedin&logoColor=white)](https://br.linkedin.com/in/jos%C3%A9-roberto-lisboa-da-silva-filho-ab4b492a6)
 
 # En-Us:
-I am a Software Development and Analyses Student at Brazil. <kbd><img src="https://i.giphy.com/3oKIPnAiaMCws8nOsE.webp" width="33"></kbd>
+I Am a Software Development and Analyses Student... <kbd><img src="https://i.giphy.com/3oKIPnAiaMCws8nOsE.webp" width="33"></kbd>
 
 - :telescope: I’m studying System Development for a variety of platforms at Fatec Sorocaba in São Paulo, Brazil.
 
 - :seedling: Exploring Content, Articles and Development.
 
-- :zap: In my free time, I Solve Logic Puzzle's and read Tech Articles.
+- :zap: In my free time, I Solve Logic Puzzle's and Read Tech Articles.
 
 - :mailbox: My Linkedin Account: [![Linkedin Badge](https://img.shields.io/badge/-Jose-blue?style=flat&logo=Linkedin&logoColor=white)](https://br.linkedin.com/in/jos%C3%A9-roberto-lisboa-da-silva-filho-ab4b492a6)
 
