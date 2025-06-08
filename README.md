@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 # Pt-Br:
 Eu Sou um Estudante de Desenvolvimento e Análise de Sistemas... <kbd><img src="https://i.giphy.com/3oKIPnAiaMCws8nOsE.webp" width="33"></kbd>
 
-- :telescope: Eu estou estudando Desenvolvimento de Sistemas para uma variedade de plataformas na Fatec de Sorocaba no estado de São Paulo, no Brasil.
+- :telescope: Eu estou Estudando Desenvolvimento de Sistemas para uma variedade de plataformas na Fatec de Sorocaba no estado de São Paulo, no Brasil.
 
 - :seedling: Explorando Conteúdo, Artigos e Desenvolvimento.
 
@@ -35,7 +35,7 @@ Eu Sou um Estudante de Desenvolvimento e Análise de Sistemas... <kbd><img src="
 # En-Us:
 I Am a Software Development and Analyses Student... <kbd><img src="https://i.giphy.com/3oKIPnAiaMCws8nOsE.webp" width="33"></kbd>
 
-- :telescope: I’m studying System Development for a variety of platforms at Fatec Sorocaba in São Paulo, Brazil.
+- :telescope: I’m Studying System Development for a variety of platforms at Fatec Sorocaba in São Paulo, Brazil.
 
 - :seedling: Exploring Content, Articles and Development.
 
