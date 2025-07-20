@@ -50,7 +50,7 @@ I Am a Software Development and Analyses Student... <kbd><img src="https://i.gip
 </div>
 -->
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Proceed15&repo=github-readme-stats&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Proceed15&repo=Proceed15&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Proceed15&langs_count=20&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
