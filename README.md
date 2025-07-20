@@ -49,7 +49,7 @@ I Am a Software Development and Analyses Student... <kbd><img src="https://i.gip
 </a>
 </div>
 
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=proceed15&show_icons=true&count_private=true&hide_border=true&title_color=36BCF7FF&icon_color=36BCF7FF&text_color=36BCF7FF&bg_color=0d1117" alt="José Lisboa Filho github stats" /> 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Proceed15)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 [![trophy](https://github-profile-trophy.vercel.app/?username=proceed15)](https://github.com/ryo-ma/github-profile-trophy)
