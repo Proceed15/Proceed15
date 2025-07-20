@@ -49,7 +49,10 @@ I Am a Software Development and Analyses Student... <kbd><img src="https://i.gip
 </a>
 </div>
 -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Proceed15&langs_count=20&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Proceed15&show_owner&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Proceed15&langs_count=20&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 [![trophy](https://github-profile-trophy.vercel.app/?username=proceed15)](https://github.com/ryo-ma/github-profile-trophy)
