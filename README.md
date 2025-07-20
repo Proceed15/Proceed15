@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!-- https://github.com/algebrot/clone-wars-website/tree/main -->
-# Pt-Br:
+# Pt-Br
 Eu Sou um Estudante de Desenvolvimento e Análise de Sistemas... <kbd><img src="https://i.giphy.com/3oKIPnAiaMCws8nOsE.webp" width="33"></kbd>
 
 - :telescope: Eu estou Estudando Desenvolvimento de Sistemas para uma variedade de plataformas na Fatec de Sorocaba no estado de São Paulo, no Brasil.
@@ -32,7 +32,7 @@ Eu Sou um Estudante de Desenvolvimento e Análise de Sistemas... <kbd><img src="
 
 - :mailbox: Minha conta no Linkedin: [![Linkedin Badge](https://img.shields.io/badge/-José-blue?style=flat&logo=Linkedin&logoColor=white)](https://br.linkedin.com/in/jos%C3%A9-roberto-lisboa-da-silva-filho-ab4b492a6)
 
-# En-Us:
+# En-Us
 I Am a Software Development and Analyses Student... <kbd><img src="https://i.giphy.com/3oKIPnAiaMCws8nOsE.webp" width="33"></kbd>
 
 - :telescope: I’m Studying System Development for a variety of platforms at Fatec Sorocaba in São Paulo, Brazil.
@@ -49,9 +49,9 @@ I Am a Software Development and Analyses Student... <kbd><img src="https://i.gip
 </a>
 </div>
 -->
-
+# Repository / Repositório:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Proceed15&repo=Proceed15&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
-
+# Languages / Linguagens
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Proceed15&langs_count=20&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
@@ -62,16 +62,16 @@ I Am a Software Development and Analyses Student... <kbd><img src="https://i.gip
 ![Proceed15's GitHub stats](https://github-readme-stats.vercel.app/api?username=Proceed15&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Proceed15&layout=compact&theme=default)
 -->
-
+## Streaks / Sequências
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Proceed15&theme=blue-green&mode=weekly)
-
+## Atividades / Activities
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=proceed15&point=FEAD17&bg_color=02121C&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ![](https://komarev.com/ghpvc/?username=proceed15)
-<!-- Remember to Usei it Yourself: &nbsp; <img src="" title="" alt="" width="40" height="40"/>&nbsp;...-->
+<!-- Remember to Use it Yourself: &nbsp; <img src="" title="" alt="" width="40" height="40"/>&nbsp;...-->
 ## :hammer_and_wrench: Languages, Tools, Servers and Frameworks I've had Experience | Linguagens, Ferramentas, Servidores e Frameworks que tive Experiências:
 
-| Linguagens + Languages | Ferramentas/Servidores + Tools/Servers | Frameworks for Development |
+| Linguagens + Languages | Ferramentas/Servidores + Tools/Servers | Frameworks |
 | --- | --- | --- |
 | <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="CSharp" alt="CSharp" width="40" height="40"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="SASS" alt="SASS" width="40" height="40"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="Visual Studio" alt="Visual Studio" width="40" height="40"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VSCode" alt="Visual Studio Code" width="40" height="40"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure" alt="Azure" width="40" height="40"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original-wordmark.svg" title="Apache" alt="Apache Server" width="40" height="40"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" title="Arduino" alt="Arduino" width="40" height="40"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Canva" alt="Canva" width="40" height="40"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg" title="Photoshop" alt="Photoshop" width="40" height="40"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Github" alt="Github" width="40" height="40"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" title="Oracle" alt="Oracle" width="40" height="40"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/puppeteer/puppeteer-original.svg" title="Puppeteer" alt="Puppeteer" width="40" height="40"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" title="SQL Server" alt="SQL Server" width="40" height="40"/>&nbsp;<img src="https://github.com/sempostma/office365-icons/blob/master/svg/excel.svg" title="Excel" alt="Microsoft Excel" width="40" height="40"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="pycharm" alt="Pycharm Idle" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/prisma/prisma-original.svg" title="Prisma" alt="Prisma Software" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS Amazon Web Services" alt="AWS Amazon Web Services" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/nuget/nuget-original-wordmark.svg" title="NuGet" alt="NuGet" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/confluence/confluence-original-wordmark.svg" title="Confluence" alt="Confluence" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" title="VueJS" alt="VueJS" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-plain-wordmark.svg" title="PyTorchLearning" alt="PyTorchLearning" width="43" height="40"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" title="Angular" alt="Angular" width="39" height="39"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="39" height="39"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="39" height="39"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-plain-wordmark.svg" title=".NET" alt=".NET" width="39" height="39"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" title="jQuery" alt="jQuery" width="39" height="39"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original-wordmark.svg" title="Laravel" alt="Laravel" width="39" height="39"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" title="Next.js" alt="Next.js" width="39" height="39"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="Node from JS" width="39" height="39"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/composer/composer-line.svg" title="Composer" alt="Composer" width="39" height="39"/>
 
