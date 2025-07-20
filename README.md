@@ -71,7 +71,7 @@ I Am a Software Development and Analyses Student... <kbd><img src="https://i.gip
 ## Recent Views / Visualizações Recentes
 ![](https://komarev.com/ghpvc/?username=proceed15)
 <!-- Remember to Use it Yourself: &nbsp; <img src="" title="" alt="" width="40" height="40"/>&nbsp;...-->
-## :hammer_and_wrench: Languages, Tools, Servers and Frameworks I've had Experience | Linguagens, Ferramentas, Servidores e Frameworks que tive Experiências:
+## Languages, Tools, Servers and Frameworks I've had Experience | Linguagens, Ferramentas, Servidores e Frameworks que tive Experiências:
 
 | Languages + Linguagens | Tools/Servers + Ferramentas/Servidores | Frameworks |
 | --- | --- | --- |
