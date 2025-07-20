@@ -68,7 +68,7 @@ I Am a Software Development and Analyses Student... <kbd><img src="https://i.gip
 
 ## Recent Activities / Atividades Recentes
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=proceed15&point=FEAD17&bg_color=02121C&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
-## Languages, Tools, Servers and Frameworks I've had Experience | Linguagens, Ferramentas, Servidores e Frameworks que tive Experiências:
+## Languages, Tools, Servers and Frameworks I've got Experience | Linguagens, Ferramentas, Servidores e Frameworks que tenho Experiência:
 
 
 | Languages + Linguagens | Tools/Servers + Ferramentas/Servidores | Frameworks |
@@ -78,6 +78,6 @@ I Am a Software Development and Analyses Student... <kbd><img src="https://i.gip
 
 ## Recent Views / Visualizações Recentes
 ![](https://komarev.com/ghpvc/?username=proceed15)
-### Random Dev Quote / Frase Inspiradora (Em Inglês):
+### Random Dev Quote / Frase Inspiradora (Em Inglês)
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=light)
 
