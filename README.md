@@ -42,14 +42,14 @@ I Am a Software Development and Analyses Student... <kbd><img src="https://i.gip
 - :zap: In my free time, I Solve Logic Puzzle's and Read Tech Articles.
 
 - :mailbox: My Linkedin Account: [![Linkedin Badge](https://img.shields.io/badge/-Jose-blue?style=flat&logo=Linkedin&logoColor=white)](https://br.linkedin.com/in/jos%C3%A9-roberto-lisboa-da-silva-filho-ab4b492a6)
-
+<!--
 <div align="left"> 
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
 <img height=300 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=proceed15&layout=compact&langs_count=12&hide_border=true&role=owner,collaborator&theme=default#gh-light-mode-only" alt="Jose's Language stats" />
 </a>
 </div>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Proceed15&langs_count=20)](https://github.com/anuraghazra/github-readme-stats)
+-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Proceed15&langs_count=20&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 [![trophy](https://github-profile-trophy.vercel.app/?username=proceed15)](https://github.com/ryo-ma/github-profile-trophy)
