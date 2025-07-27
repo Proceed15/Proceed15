@@ -1,4 +1,4 @@
-## José Roberto Lisboa da Silva Filho
+# José Roberto Lisboa da Silva Filho
 <!--
 Metrics Source
 <picture>
@@ -49,10 +49,10 @@ I Am a Software Development and Analyses Student... <kbd><img src="https://i.gip
 </a>
 </div>
 -->
-## Repository / Repositório
+## Repository / Repositório 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Proceed15&repo=Proceed15&show_owner=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-## Languages / Linguagens
+## Languages! / Linguagens!
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Proceed15&langs_count=20&layout=pie&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
@@ -78,6 +78,11 @@ I Am a Software Development and Analyses Student... <kbd><img src="https://i.gip
 
 ## Recent Views / Visualizações Recentes
 ![](https://komarev.com/ghpvc/?username=proceed15)
-### Random Dev Quote / Frase Inspiradora (Em Inglês)
+
+# Random Dev Quote / Frase Inspiradora (Em Inglês)
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=light)
 
+
+
+
+©2025
