@@ -63,7 +63,7 @@ I Am a Software Development and Analyses Student... <kbd><img src="https://i.gip
 ![Proceed15's GitHub stats](https://github-readme-stats.vercel.app/api?username=Proceed15&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Proceed15&layout=compact&theme=default)
 -->
-## Streaks / Sequências
+## Streaks Over the Years / Sequências ao Longo dos Anos
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Proceed15&theme=blue-green&mode=weekly)
 
 ## Recent Activities / Atividades Recentes
@@ -79,7 +79,7 @@ I Am a Software Development and Analyses Student... <kbd><img src="https://i.gip
 ## Recent Views / Visualizações Recentes
 ![](https://komarev.com/ghpvc/?username=proceed15)
 
-# Random Dev Quote / Frase Inspiradora (Em Inglês)
+## Random Dev Quote / Frase Inspiradora (Em Inglês)
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=light)
 
 
