@@ -21,16 +21,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!-- https://github.com/algebrot/clone-wars-website/tree/main -->
-# Pt-Br
-Eu Sou um Estudante de Desenvolvimento e Análise de Sistemas... <kbd><img src="https://i.giphy.com/3oKIPnAiaMCws8nOsE.webp" width="33"></kbd>
-
-- :telescope: Eu estou Estudando Desenvolvimento de Sistemas para uma variedade de plataformas na Fatec de Sorocaba no estado de São Paulo, no Brasil.
-
-- :seedling: Explorando Conteúdo, Artigos e Desenvolvimento.
-
-- :zap: No meu Tempo Livre eu Resolvo Enigmas de Lógica e Leio Artigos Técnicos.
-
-- :mailbox: Minha conta no Linkedin: [![Linkedin Badge](https://img.shields.io/badge/-José-blue?style=flat&logo=Linkedin&logoColor=white)](https://br.linkedin.com/in/jos%C3%A9-roberto-lisboa-da-silva-filho-ab4b492a6)
 
 # En-Us
 I Am a Software Development and Analyses Student... <kbd><img src="https://i.giphy.com/3oKIPnAiaMCws8nOsE.webp" width="33"></kbd>
@@ -42,6 +32,17 @@ I Am a Software Development and Analyses Student... <kbd><img src="https://i.gip
 - :zap: In my free time, I Solve Logic Puzzle's and Read Tech Articles.
 
 - :mailbox: My Linkedin Account: [![Linkedin Badge](https://img.shields.io/badge/-Jose-blue?style=flat&logo=Linkedin&logoColor=white)](https://br.linkedin.com/in/jos%C3%A9-roberto-lisboa-da-silva-filho-ab4b492a6)
+# Pt-Br
+Eu Sou um Estudante de Desenvolvimento e Análise de Sistemas... <kbd><img src="https://i.giphy.com/3oKIPnAiaMCws8nOsE.webp" width="33"></kbd>
+
+- :telescope: Eu estou Estudando Desenvolvimento de Sistemas para uma variedade de plataformas na Fatec de Sorocaba no estado de São Paulo, no Brasil.
+
+- :seedling: Explorando Conteúdo, Artigos e Desenvolvimento.
+
+- :zap: No meu Tempo Livre eu Resolvo Enigmas de Lógica e Leio Artigos Técnicos.
+
+- :mailbox: Minha conta no Linkedin: [![Linkedin Badge](https://img.shields.io/badge/-José-blue?style=flat&logo=Linkedin&logoColor=white)](https://br.linkedin.com/in/jos%C3%A9-roberto-lisboa-da-silva-filho-ab4b492a6)
+
 <!--
 <div align="left"> 
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
@@ -85,4 +86,4 @@ I Am a Software Development and Analyses Student... <kbd><img src="https://i.gip
 
 
 
-### Proceed©2025
+### Proceed©2026
