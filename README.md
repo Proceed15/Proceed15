@@ -19,6 +19,7 @@
 - 🎤 **Palestrante** na Semana de Tecnologia (Tema: Machine Learning aplicado ao Robocode).
 - ☁️ Construindo arquiteturas escaláveis (AWS, Serverless) e explorando modelos de IA/NLP.
 - 🧩 No tempo livre, resolvo enigmas de lógica e leio artigos técnicos.
+---
 
 ## 🇺🇸 About me
 **Software Developer | Focus on AI, Cloud computing, and Backend**
@@ -64,8 +65,12 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" title="Next.js" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" title="Angular" width="40" height="40"/>
 
----
+### 🖌️ Design & Prototipagem
+<img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Canva" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg" title="Photoshop" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" width="40" height="40"/>
 
+---
 ## 📊 Estatísticas | GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Proceed15&show_icons=true&theme=dark" alt="GitHub Stats" />
