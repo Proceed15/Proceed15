@@ -15,7 +15,7 @@
 **Desenvolvedor de Software | Foco em Inteligência Artificial, Cloud e Backend**
 
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas na **Fatec Sorocaba**.
-- 🏆 **2º Colocado** na Competição Robocode com implementação de Machine Learning em Java.
+- 🏆 **1º, 2º e 3º Colocado** na Competição Robocode com implementação de Machine Learning em Java.
 - 🎤 **Palestrante** na Semana de Tecnologia (Tema: Machine Learning aplicado ao Robocode).
 - ☁️ Construindo arquiteturas escaláveis (AWS, Serverless) e explorando modelos de IA/NLP.
 - 🧩 No tempo livre, resolvo enigmas de lógica e leio artigos técnicos.
@@ -25,7 +25,7 @@
 **Software Developer | Focus on AI, Cloud computing, and Backend**
 
 - 🎓 Systems Analysis and Development Student at **Fatec Sorocaba**.
-- 🏆 **2nd Place** in Robocode Competition using Machine Learning in Java.
+- 🏆 **First, Second and Third Place** in Robocode Competition using Machine Learning in Java.
 - 🎤 **Tech Week Speaker** (Topic: Machine Learning applied to Robocode).
 - ☁️ Building scalable architectures (AWS, Serverless) and exploring AI/NLP models.
 - 🧩 In my free time, I solve logic puzzles and read tech articles.
@@ -34,7 +34,7 @@
 
 ## 🚀 Projetos em Destaque | Featured Projects
 
-* 🤖 **[Robocode com Machine Learning](https://github.com/Proceed15/Robocode_SETEC):** Robô autônomo desenvolvido em Java integrando algoritmos de Machine Learning. Projeto premiado em 2º lugar e tema de palestra técnica.
+* 🤖 **[Robocode com Machine Learning](https://github.com/Proceed15/Robocode_SETEC):** Robô autônomo desenvolvido em Java integrando algoritmos de Machine Learning. Projeto premiado em em 1º, 2º e 3º lugar e tema de palestra técnica.
 * ☁️ **[Arquitetura AWS Serverless (ALADA)](https://github.com/Proceed15/AWSAtividadeALADA):** Aplicação backend construída com AWS Lambda, API Gateway, DynamoDB e deploy automatizado via Amplify.
 * 🌍 **[NASA Space Apps - Atena ISS](https://github.com/Proceed15/NASA_Space_Apps_AtenaISS):** Projeto desenvolvido durante o hackathon global da NASA, focando em inovação e trabalho em equipe sob pressão.
 * 📊 **[Dashboard Financeiro (Next.js)](https://github.com/Proceed15/next-dashboard-financial):** Aplicação web full stack para gestão financeira, construída com Next.js, Tailwind, TypeScript e banco de dados PostgreSQL.
