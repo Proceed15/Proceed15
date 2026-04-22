@@ -11,7 +11,7 @@
 
 ---
 
-## 🇧🇷 Sobre mim
+## Pt-Br: Sobre mim
 **Desenvolvedor de Software | Foco em Inteligência Artificial, Cloud e Backend**
 
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas na **Fatec Sorocaba**.
