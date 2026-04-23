@@ -1,4 +1,4 @@
-# José R. Lisboa S. Filho
+# José R Lisboa S Filho
 
 <div align="center">
   <a href="https://proceed15.github.io/A_Portfolio/" target="_blank">
