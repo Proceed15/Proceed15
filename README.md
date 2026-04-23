@@ -12,9 +12,9 @@
 ---
 
 ## Pt-Br: Sobre mim
-**Desenvolvedor de Software | Foco em Inteligência Artificial, Cloud e Backend**
+**Desenvolvedor de Software | Foco em Soluções com Inteligência Artificial, Cloud e Backend**
 
-- 🎓 Estudante de Análise e Desenvolvimento de Sistemas na **Fatec Sorocaba**.
+- 🎓 Estudante de Análise e Desenvolvimento de Sistemas na **UFSCAR Sorocaba**.
 - 🏆 **1º, 2º e 3º Colocado** na Competição Robocode com implementação de Machine Learning em Java.
 - 🎤 **Palestrante** na Semana de Tecnologia (Tema: Machine Learning aplicado ao Robocode).
 - ☁️ Construindo arquiteturas escaláveis (AWS, Serverless) e explorando modelos de IA/NLP.
@@ -22,9 +22,9 @@
 ---
 
 ## 🇺🇸 About me
-**Software Developer | Focus on AI, Cloud computing, and Backend**
+**Software Developer | Focus on Solutions with AI, Cloud computing, and Backend**
 
-- 🎓 Systems Analysis and Development Student at **Fatec Sorocaba**.
+- 🎓 Systems Analysis and Development Student at **UFSCAR Sorocaba**.
 - 🏆 **First, Second and Third Place** in Robocode Competition using Machine Learning in Java.
 - 🎤 **Tech Week Speaker** (Topic: Machine Learning applied to Robocode).
 - ☁️ Building scalable architectures (AWS, Serverless) and exploring AI/NLP models.
