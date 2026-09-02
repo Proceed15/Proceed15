@@ -21,8 +21,8 @@
 - 🧩 No tempo livre, resolvo enigmas de lógica e leio artigos técnicos.
 ---
 
-## 🇺🇸 About me
-**Software Developer | Focus on Solutions with AI, Cloud computing, and Backend**
+## Us: About me
+**Software Developer | With Focus on Solutions with AI, Cloud Computing, and Backend**
 
 - 🎓 Systems Analysis and Development Student at **UFSCAR Sorocaba**.
 - 🏆 **First, Second and Third Place** in Robocode Competition using Machine Learning in Java.
@@ -69,13 +69,13 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Canva" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg" title="Photoshop" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" width="40" height="40"/>
-
 ---
 ## 📊 Estatísticas | GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Proceed15&show_icons=true&theme=dark" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Proceed15&layout=compact&theme=dark" alt="Top Langs" />
 </div>
+
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=proceed15&point=FEAD17&bg_color=02121C&theme=github-compact" alt="Activity Graph" />
