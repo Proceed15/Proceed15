@@ -65,11 +65,12 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Canva" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg" title="Photoshop" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" width="40" height="40"/>
+
 ---
 ## 📊 Estatísticas | GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Proceed15&show_icons=true&theme=dark" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Proceed15&layout=compact&theme=dark" alt="Top Langs" />
+  <img src="[![José's GitHub stats](https://github-stats-extended.vercel.app/api/?username=proceed15&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=José's+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed)](https://github-stats-extended.vercel.app/api/?username=anuraghazra&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=José's+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed)" alt="GitHub Stats" />
+  <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=Proceed15&layout=compact&theme=dark](https://github-stats-extended.vercel.app/api/top-langs/?username=proceed15&langs_count=5&theme=dark_github)" alt="Top Langs" />
 </div>
 
 
