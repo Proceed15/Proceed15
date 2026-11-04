@@ -65,7 +65,8 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Canva" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg" title="Photoshop" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" width="40" height="40"/>
-
+### 🖌️ Programação com Hardware
+<img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" title="Canva" width="40" height="40"/>
 ---
 ## 📊 Estatísticas | GitHub Stats
 <div align="center">
