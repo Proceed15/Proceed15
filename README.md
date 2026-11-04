@@ -48,6 +48,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="Jupyter Notebook" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" width="40" height="40"/>
 ### ☁️ Cloud & DevOps
 <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" title="AWS" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure" width="40" height="40"/>&nbsp;
@@ -65,7 +66,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Canva" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg" title="Photoshop" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" width="40" height="40"/>
-### 🖌️ Programação com Hardware
+### 💻 Programação com Hardware
 <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" title="Canva" width="40" height="40"/>
 ---
 ## 📊 Estatísticas | GitHub Stats
